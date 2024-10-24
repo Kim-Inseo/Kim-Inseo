@@ -13,7 +13,12 @@
 
 ## 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kim-Inseo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Kim Inseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Inseo&show_icons=true&theme=cobalt)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Inseo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mathematica)](https://solved.ac/mathematica/)
 
 
