@@ -14,6 +14,7 @@
 ## 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kim-Inseo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mathematica)](https://solved.ac/mathematica/)
 
 
 
