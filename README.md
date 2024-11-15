@@ -24,7 +24,7 @@
 
 ## Blog
 
-- https://kim-inseo.github.io/weniv_blog/
+- https://kim-inseo.github.io/Blog/
 
 
 
