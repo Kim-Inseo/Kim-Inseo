@@ -2,6 +2,7 @@
 - 머신 러닝(Machine Learning)
   - 딥 러닝(Deep Learning)
 - 자연어 처리(Natural Language Processing)
+- 컴퓨터 비전(Computer Vision)
 
 
 ## Stack
