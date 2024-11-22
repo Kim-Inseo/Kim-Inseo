@@ -25,7 +25,7 @@
 
 ## Blog
 
-- https://kim-inseo.github.io/blog/
+- https://kim-inseo.github.io/
 
 
 
