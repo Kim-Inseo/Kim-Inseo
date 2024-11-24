@@ -7,10 +7,12 @@
     - GPA 4.13/4.3
 
 
+
 ## 자격증
 
 - ADsP (데이터분석 준전문가)
   - 2024년 11월 29일
+
 
 
 ## 대외활동
@@ -20,10 +22,12 @@
   - 2023년 09월 01일 ~ 2024년 04월 01일
 
 
+
 ## Interest
 - 머신 러닝(Machine Learning)
   - 딥 러닝(Deep Learning)
 - 자연어 처리(Natural Language Processing)
+
 
 
 ## Stack
@@ -33,12 +37,14 @@
 - ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+
 ## Blog
 
 - https://kim-inseo.github.io/
 
 
-## 
+
+## ETC
 <!--
 ![Kim Inseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Inseo&show_icons=true&theme=cobalt)
 
