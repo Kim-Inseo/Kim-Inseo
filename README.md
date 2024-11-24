@@ -6,14 +6,14 @@
   - 최우수(Summa Cum Laude) 졸업
     - GPA 4.13/4.3
 
-
+<br/>
 
 ## 자격증
 
 - ADsP (데이터분석 준전문가)
   - 2024년 11월 29일
 
-
+<br/>
 
 ## 대외활동
 
@@ -21,14 +21,14 @@
   - 우수학회원
   - 2023년 09월 01일 ~ 2024년 04월 01일
 
-
+<br/>
 
 ## Interest
 - 머신 러닝(Machine Learning)
   - 딥 러닝(Deep Learning)
 - 자연어 처리(Natural Language Processing)
 
-
+<br/>
 
 ## Stack
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,13 +36,13 @@
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 - ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
+<br/>
 
 ## Blog
 
 - https://kim-inseo.github.io/
 
-
+<br/>
 
 ## ETC
 <!--
