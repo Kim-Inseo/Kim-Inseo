@@ -1,20 +1,24 @@
 ## About Me
 
 - 서강대학교 학사 (졸업)
-  - 수학(이학사) / 빅데이터 사이언스 연계전공(공학사)
-  - 2020년 03월 ~ 2024년 08월
+  - 수학(이학사) / 빅데이터 사이언스 연계전공(공학사) 복수전공
+  - 2020. 03. ~ 2024. 08.
   - 최우수(Summa Cum Laude) 졸업
     - GPA 4.13/4.3
 
+
 ## 자격증
 
-- ADsP (2024. 11. 29.)
+- ADsP (데이터분석 준전문가)
+  - 2024. 11. 29.
+
 
 ## 대외활동
 
 - BDA 7기
   - 우수학회원
   - 2023. 09. 01. ~ 2024. 04. 01.
+
 
 ## Interest
 - 머신 러닝(Machine Learning)
@@ -29,6 +33,11 @@
 - ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+## Blog
+
+- https://kim-inseo.github.io/
+
+
 ## 
 
 ![Kim Inseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Inseo&show_icons=true&theme=cobalt)
@@ -38,11 +47,6 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mathematica)](https://solved.ac/mathematica/)
-
-
-## Blog
-
-- https://kim-inseo.github.io/
 
 
 
