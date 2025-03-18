@@ -44,7 +44,7 @@
 
 ## Blog
 
-- 블로그 주소:
+블로그 주소:
 - https://kim-inseo.github.io/
 
 <br/>
