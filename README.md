@@ -46,13 +46,6 @@
 
 <br/>
 
-## Blog
-
-블로그 주소:
-- https://kim-inseo.github.io/
-
-<br/>
-
 ## ETC
 <!--
 ![Kim Inseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Inseo&show_icons=true&theme=cobalt)
